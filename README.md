@@ -10,7 +10,7 @@
 <p>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-</p> [![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev) 
+</p> 
 
 ## 💻 Operatiing Systems
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white)
@@ -28,6 +28,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=basit21740&theme=onedark)](https://github.com/basit21740/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey+isn't+this+so+cool?;i+know+it+is+haha)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting)](https://git.io/typing-svg)
 
 
