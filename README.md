@@ -4,7 +4,7 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev)
 
-[![Visits Badge](https://badges.pufler.dev/visits/basit21740/git-badges)](https://badges.pufler.dev)
+![Visitor Count](https://profile-counter.glitch.me/{basit21740}/count.svg)
 
 ## ✍ Programming Languages
 <p>
