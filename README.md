@@ -2,6 +2,8 @@
 
 # I am 17 years old and i love computer science & messing around with computers to do something different and fun
 
+[![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev)
+
 ## ✍ Programming Languages
 <p>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -27,4 +29,3 @@
 ![Visitor Count](https://profile-counter.glitch.me/{basit21740}/count.svg)
 
 [![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev)
-https://badges.pufler.dev/repos/{basit21740}
