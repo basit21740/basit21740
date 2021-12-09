@@ -5,6 +5,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev)
 
 [![Visits Badge](https://badges.pufler.dev/visits/basit21740/git-badges)](https://badges.pufler.dev)
+
 ## ✍ Programming Languages
 <p>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
