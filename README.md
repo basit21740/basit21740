@@ -24,5 +24,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=basit21740&theme=onedark)](https://github.com/basit21740/github-profile-trophy)
 
-
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Visitor Count](https : //profile-counter.glitch.me/{basit21740}/count.svg)
+```
