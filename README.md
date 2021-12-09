@@ -28,6 +28,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=basit21740&theme=onedark)](https://github.com/basit21740/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?hey+isn't+this+so+cool?=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey+isn't+this+so+cool?;i+know+it+is+haha)](https://git.io/typing-svg)
 
 
