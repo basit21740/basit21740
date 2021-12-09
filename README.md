@@ -1,4 +1,4 @@
-# Hi , I'm Abdul Basit ❤️‍🔥👋
+
 ![My image](https://github.com/basit21740/basit21740/blob/main/header.png?raw=true)
 
 # I am 17 years old and i love computer science & messing around with computers to do something different and fun
