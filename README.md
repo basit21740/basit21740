@@ -26,5 +26,5 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{basit21740}/count.svg)
 
-[![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev)
 https://badges.pufler.dev/repos/{basit21740}
