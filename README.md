@@ -3,10 +3,8 @@
 # I am 17 years old and i love computer science & messing around with computers to do something different and fun
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey+isn't+this+so+cool?;i+know+it+is+haha)](https://git.io/typing-svg)
-
-![Visitor Count](https://profile-counter.glitch.me/{basit21740}/count.svg) [![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev) 
-
-
+[![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev) 
+![Visitor Count](https://profile-counter.glitch.me/{basit21740}/count.svg) 
 ## ✍ Programming Languages
 <p>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
