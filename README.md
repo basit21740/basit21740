@@ -1,4 +1,5 @@
 # Hi , I'm Abdul Basit ❤️‍🔥👋
+![My image](https://github.com/basit21740/basit21740/blob/main/header.png?raw=true)
 
 # I am 17 years old and i love computer science & messing around with computers to do something different and fun
 
@@ -29,6 +30,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=basit21740&theme=onedark)](https://github.com/basit21740/github-profile-trophy)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting)](https://git.io/typing-svg)
-https://github.com/basit21740/basit21740/blob/main/header.png?raw=true
+
 
 
