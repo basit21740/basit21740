@@ -24,6 +24,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=basit21740&theme=onedark)](https://github.com/basit21740/github-profile-trophy)
 
-<a href="https://www.youtube.com/channel/[UCy7R-QEkTGmqO6G1K8eZU5g]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[UCy7R-QEkTGmqO6G1K8eZU5g]&key=[AIzaSyBjf4IhefxKHVxv_tsMfGsyJRR6qqGjy3w]"/>
-</a>
+
+                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
