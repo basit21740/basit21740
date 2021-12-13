@@ -5,7 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey+isn't+this+so+cool?;i+know+it+is+haha)](https://git.io/typing-svg)
 
-[![Repos Badge](https://badges.pufler.dev/repos/basit21740)](https://badges.pufler.dev) 
 ![Visitor Count](https://profile-counter.glitch.me/{basit21740}/count.svg) 
 ## ✍ Programming Languages
 <p>
