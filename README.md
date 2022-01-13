@@ -2,7 +2,9 @@
 ![My image](https://github.com/basit21740/basit21740/blob/main/header.png?raw=true)
 
 # HI GUYS <3
-My name is Abdul Basit , I am 17 years old and i am a Computer programming student
+
+𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝘼𝙗𝙙𝙪𝙡 𝘽𝙖𝙨𝙞𝙩 , 𝙄 𝙖𝙢 17 𝙮𝙚𝙖𝙧𝙨 𝙤𝙡𝙙 𝙖𝙣𝙙 𝙞 𝙖𝙢 𝙖 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙨𝙩𝙪𝙙𝙚𝙣𝙩
+
 
 Things i am learning are :
        
