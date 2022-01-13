@@ -5,17 +5,20 @@
 My name is Abdul Basit , I am 17 years old and i am a Computer programming student
 
 Things i am learning are :
+       
        . Python
        . C++
        . Java
        . Linux
        . Making games using python on PyBadge
 Things i have interest in :
+       
        . Ethical Hacking
        . Learning Most of the Programming languages
        . I Want to be a Full - Stack Software Developer
 Things i do :
-       . I am also a youtuber with more than 100k+ views
+      
+      . I am also a youtuber with more than 100k+ views
        . I make Websites sometimes
 
 ## ✍ Programming Languages
