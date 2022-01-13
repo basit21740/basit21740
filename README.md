@@ -18,9 +18,6 @@ Things i do :
        . I am also a youtuber with more than 100k+ views
        . I make Websites sometimes
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hey+isn't+this+so+cool?;i+know+it+is+haha)](https://git.io/typing-svg)
-
-![Visitor Count](https://profile-counter.glitch.me/{basit21740}/count.svg) 
 ## ✍ Programming Languages
 <p>
   <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
