@@ -60,7 +60,12 @@ https://basit21740.github.io/portfolio/
  
  ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+ 
+  ## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Basit21740">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting)](https://git.io/typing-svg)
+       
 
 
