@@ -3,7 +3,26 @@
 
 # HI GUYS 😃
 
-𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝘼𝙗𝙙𝙪𝙡 𝘽𝙖𝙨𝙞𝙩 , 𝙄 𝙖𝙢 17 𝙮𝙚𝙖𝙧𝙨 𝙤𝙡𝙙 𝙖𝙣𝙙 𝙞 𝙖𝙢 𝙖 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙨𝙩𝙪𝙙𝙚𝙣𝙩
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Abdul Basit'
+		current_edu = "St. Mother Teresa High School"
+		hobbies = [
+				'Gym',
+				'Basketball',
+				'Coding'
+				'Working  Out'
+			]
+	
+	def getCity():
+		return Ottawa_Camada()
+	
+	def Ambitions():
+		LearnDevelopment()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 <p align="center">
     <a href="https://github.com/Basit21740/github-readme-streak-stats">
