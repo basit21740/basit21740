@@ -110,8 +110,6 @@ https://basit21740.github.io/portfolio/
     <img src="https://komarev.com/ghpvc/?username=Basit21740">
      
 
-https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=[UCy7R-QEkTGmqO6G1K8eZU5g]&key=[AIzaSyBVKTZ1K3qVZWZkeehUdaAGzwxjTTYkfis]
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting)](https://git.io/typing-svg)
        
 
