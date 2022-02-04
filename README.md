@@ -109,9 +109,8 @@ https://basit21740.github.io/portfolio/
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Basit21740">
      
-<a href="https://www.youtube.com/channel/[UCy7R-QEkTGmqO6G1K8eZU5g]">
- <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[UCy7R-QEkTGmqO6G1K8eZU5g]&key=[AIzaSyBVKTZ1K3qVZWZkeehUdaAGzwxjTTYkfis]"/>
-</a>
+<a href="https://www.youtube.com/channel/UCy7R-QEkTGmqO6G1K8eZU5g"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php#"/></a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting)](https://git.io/typing-svg)
        
