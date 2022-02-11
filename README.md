@@ -1,5 +1,5 @@
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+![My image](https://github.com/basit21740/basit21740/blob/main/header.png?raw=true)
   
 # HI GUYS 😃
 
@@ -23,9 +23,6 @@
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
-   
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 
 <p align="center">
     <a href="https://github.com/Basit21740/github-readme-streak-stats">
@@ -37,7 +34,9 @@
 
 # My Website 😁
 https://basit21740.github.io/portfolio/
-
+   
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 # About me 😎
 
 𝕿𝖍𝖎𝖓𝖌𝖘 𝖎 𝖆𝖒 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖆𝖗𝖊 :
