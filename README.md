@@ -1,7 +1,8 @@
 
 ![My image](https://github.com/basit21740/basit21740/blob/main/header.png?raw=true)
   
-# HI GUYS 😃<img src="https://img.icons8.com/doodle/48/000000/mac-client.png"/>
+# HI GUYS 😃
+<img src="https://img.icons8.com/doodle/48/000000/mac-client.png"/>
 
 ## Who am I?
  ```python
