@@ -1,6 +1,6 @@
 
-![My image](https://github.com/basit21740/basit21740/blob/main/header.png?raw=true)
-
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
 # HI GUYS 😃
 
 ## Who am I?
