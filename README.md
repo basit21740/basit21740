@@ -1,6 +1,6 @@
 
 ![My image](https://github.com/basit21740/basit21740/blob/main/header.png?raw=true)
-## Who am I?�
+## Who am I?💻
  ```python
  class WhoAmI:
  	user = 'Abdul Basit'
