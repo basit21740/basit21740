@@ -42,7 +42,6 @@ https://basit21740.github.io/portfolio/
        . C++
        . Java
        . Javascript
-       . Java
        . HTML
        . CSS
        . Swift
@@ -52,7 +51,7 @@ https://basit21740.github.io/portfolio/
        
        . Ethical Hacking
        . Learning Most of the Programming languages
-       . I Want to be a Full - Stack Software Developer
+       . I Want to be a Full - Stack Developer
 
 𝕿𝖍𝖎𝖓𝖌𝖘 𝖎 𝖉𝖔 :
       
