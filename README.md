@@ -13,7 +13,7 @@
 			]
 	
 	def getCity():
-		return Ottawa_Camada()
+		return Ottawa_Canada()
 	
 	def Ambitions():
 		LearnDevelopment()
