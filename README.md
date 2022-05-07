@@ -60,6 +60,7 @@ https://basit21740.github.io/portfolio/
 
 ## ✍ Programming Languages
 <p>
+   <a href="https://github.com/search?q=user%3Abasit21740+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ABasit21740+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3Basit21740+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
  <a href="https://github.com/search?q=user%3ABasit21740+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>   <a href="https://github.com/search?q=user%3ABasit21740+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
