@@ -70,6 +70,7 @@ https://basit21740.github.io/portfolio/
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-shadow-tal-revivo.png"/>
 	
 ## 💻 Operatiing Systems
+   <img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS">
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
   ![IOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
