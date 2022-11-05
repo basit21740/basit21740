@@ -4,7 +4,7 @@
  ```python
  class WhoAmI:
  	user = 'Abdul Basit'
-		current_edu = "St. Mother Teresa High School"
+		current_edu = "High school graduate"
 		hobbies = [
 				'Gym',
 				'Basketball',
